@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/fduthill-tenant/devfile-sample-python-basic-1/devfile-sample-python-basic-4yps@sha256:3000493fc3718bd200972539a07a29700745a6c3dfaa4148fe3b47b083c0845b
+      - image: quay.io/redhat-user-workloads/fduthill-tenant/devfile-sample-python-basic-1/devfile-sample-python-basic-4yps@sha256:12abb1da85960ee5ee597e22ae5a764e27d7c115838129cb34ef53b9695c4ee7
         name: my-python
         resources: {}
 status: {}
